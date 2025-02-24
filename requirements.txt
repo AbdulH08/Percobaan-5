@@ -1,0 +1,7 @@
+streamlit
+tensorflow==2.16.1
+pandas
+numpy
+matplotlib
+pyngrok
+gdown
